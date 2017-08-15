@@ -6,4 +6,4 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - python ../goodreads.py
+  - python python/goodreads.py
