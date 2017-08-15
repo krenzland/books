@@ -83,7 +83,7 @@ def main():
     key = os.environ["GOODREADS_KEY"]
 
     books = get_reviews(user, key)
-    folder = '../posts/'
+    folder = 'posts/'
     generate_org_files(folder, books)
 
 if __name__ == "__main__":
