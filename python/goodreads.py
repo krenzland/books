@@ -24,11 +24,10 @@ class Book:
         if (self.review == ''):
             raise Exception()
         
-        self.title = xml.find("book/title_without_series").text
-        self_title_with_series = xml.find("book/title").text
-        self.author = xml.find("book/authors/author/name").text
-        self.published = xml.find("book/published").text
-        return
+        self.title = xml.find('book/title_without_series').text
+        self.title_with_series = xml.find('book/title').text
+        self.author = xml.find('book/authors/author/name').text
+        self.published = xml.find('book/published').text
     
     def to_org(self):
         head_sep = "---"
@@ -38,15 +37,15 @@ class Book:
         return "\n".join([head_sep, title, date, tags, head_sep, self.review])
     
     def get_filename(self):
-        title =  "_".join([self.author, self.title])
-        title = title.replace(" ", "").replace(".", "")
-        return title + ".org"
+        title =  '_'.join([self.author, self.title])
+        title = title.replace(' ', '').replace('.', '')
+        return title + '.org'
 
 def parse_response(reviews, books):
     for rev in reviews:
         try:
             books.append(Book(rev))
-        except:
+        except Exception:
             pass
         
 def get_reviews(user, key):
@@ -80,11 +79,11 @@ def generate_org_files(folder, books):
              
 def main():
     user = 9769674
-    key = os.environ["GOODREADS_KEY"]
+    key = os.environ['GOODREADS_KEY']
 
     books = get_reviews(user, key)
     folder = 'posts/'
     generate_org_files(folder, books)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
