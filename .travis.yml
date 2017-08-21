@@ -1,9 +1,13 @@
 language: python
 python:
-  - "3.6"
+- '3.6'
 cache: pip
 install:
-  - pip install -r requirements.txt
-
+- pip install -r requirements.txt
 script:
-  - python python/goodreads.py
+- python python/goodreads.py
+after_success:
+- bash deploy.sh
+before_install:
+- openssl aes-256-cbc -K $encrypted_6a6599eb477f_key -iv $encrypted_6a6599eb477f_iv
+  -in id_rsa.enc -out id_rsa -d
