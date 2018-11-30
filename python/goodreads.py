@@ -4,6 +4,7 @@ import requests as r
 import xml.etree.ElementTree as x
 import datetime
 import os
+import re
 
 def make_api_req(user, key, page=1):
     params = {'v': '2', 'key': key, 'id': user, 'page': page, 'per_page': 200}
@@ -12,6 +13,20 @@ def make_api_req(user, key, page=1):
     content = resp.content
     return content
 
+
+def parse_series(title, title_with_series):
+    # Remove title from series string
+    series_str = title_with_series.replace(title, "")
+    
+    # string now has format " (series1, #number; series2, #number)"
+    # Extract text in brackets
+    match = re.match(' \((.*)\)', series_str)
+    if not match:
+        return ''
+    
+    series_str = match.group(1)
+    return series_str
+    
 class Book:
     def __init__(self, xml):
         self.id = xml.find('id').text
@@ -21,11 +36,11 @@ class Book:
         self.read_date = datetime.datetime.strptime(raw_date, '%a %b %d %H:%M:%S %z %Y')
         
         self.review = xml.find('body').text.strip().replace('<br />', '\n')
-        if (self.review == ''):
-            raise Exception()
+        self.has_review = self.review != ''
         
         self.title = xml.find('book/title_without_series').text
         self.title_with_series = xml.find('book/title').text
+        self.series = parse_series(self.title, self.title_with_series)
         self.author = xml.find('book/authors/author/name').text
         self.published = xml.find('book/published').text
     
@@ -45,8 +60,9 @@ def parse_response(reviews, books):
     for rev in reviews:
         try:
             books.append(Book(rev))
-        except Exception:
-            pass
+        except Exception as e:
+            print(e)
+
         
 def get_reviews(user, key):
     finished = False
@@ -72,18 +88,39 @@ def get_reviews(user, key):
 
 def generate_org_files(folder, books):
      for book in books:
-         filename = folder + book.get_filename()
-         with open(filename, 'w') as f:
-             f.write(book.to_org())
-             print(filename)
+         if book.has_review:
+            filename = folder + book.get_filename()
+            with open(filename, 'w') as f:
+                f.write(book.to_org())
+                print("Created review for {}.".format(filename))
              
+def generate_org_table(folder, books):
+    def stringify_series(series):
+        return series
+
+    header = "|name|author(s)|series|read data|"
+    sep = "|--|--|--|--|"
+    
+    rows = [header, sep]
+    for book in books:
+        row = "|{}|{}|{}|{}|".format(book.author,
+                                  book.title,
+                                  stringify_series(book.series),
+                                  book.read_date.date())
+        rows.append(row)
+    with open(folder + '/books.org', 'w') as f:
+        f.write("\n".join(rows))
+        print("Created table of read books")
+
 def main():
     user = 9769674
     key = os.environ['GOODREADS_KEY']
 
     books = get_reviews(user, key)
-    folder = 'posts/'
-    generate_org_files(folder, books)
+    folder_posts = 'posts/'
+    folder_list = 'posts/lists'
+    generate_org_files(folder_posts, books)
+    generate_org_table(folder_list, books)
 
 if __name__ == '__main__':
     main()
