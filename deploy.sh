@@ -17,8 +17,6 @@ chmod 600 id_rsa
 eval `ssh-agent -s`
 ssh-add id_rsa
 
-mkdir -p posts/lists/
-
 cd posts/
 rm -rf .gitkeep
 
