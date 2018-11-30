@@ -1,0 +1,73 @@
+|name|author(s)|series|read data|
+|--|--|--|--|
+|Terry Pratchett|Hogfather|Discworld, #20; Death, #4|2018-11-25|
+|Terry Pratchett|Soul Music|Discworld, #16; Death, #3|2018-11-12|
+|Terry Pratchett|Reaper Man|Discworld, #11; Death, #2|2018-10-26|
+|Terry Pratchett|Mort|Death, #1; Discworld, #4|2018-09-23|
+|Terry Pratchett|Snuff|Discworld, #39; City Watch #8|2018-09-01|
+|Terry Pratchett|Thud!|Discworld, #34; City Watch #7|2018-08-17|
+|Terry Pratchett|Night Watch|Discworld, #29; City Watch, #6|2018-08-12|
+|Terry Pratchett|The Fifth Elephant|Discworld, #24; City Watch, #5|2018-08-06|
+|Terry Pratchett|Jingo|Discworld, #21; City Watch, #4|2018-08-01|
+|Terry Pratchett|Feet of Clay|Discworld, #19; City Watch, #3|2018-07-27|
+|Terry Pratchett|Guards! Guards!|Discworld, #8; City Watch #1|2018-07-16|
+|Terry Pratchett|Raising Steam|Discworld, #40, Moist von Lipwig #3|2018-07-11|
+|Terry Pratchett|Making Money|Discworld, #36; Moist Von Lipwig, #2|2018-07-06|
+|Terry Pratchett|Going Postal|Discworld, #33; Moist von Lipwig, #1|2018-06-30|
+|Benjamin von Stuckrad-Barre|Ich glaub, mir geht's nicht so gut, ich muss mich mal irgendwo hinlegen|Remix, #3|2018-06-27|
+|Kurt Vonnegut|Slapstick, or Lonesome No More!||2018-06-15|
+|Margaret Atwood|The Handmaid's Tale||2018-06-27|
+|Jim Butcher|Side Jobs: Stories from the Dresden Files|The Dresden Files, #12.5|2018-06-05|
+|Jim Butcher|Skin Game|The Dresden Files, #15|2018-04-19|
+|Jim Butcher|Ghost Story|The Dresden Files,  #13|2018-04-15|
+|Christian Kracht|Faserland||2018-03-31|
+|Jim Butcher|Changes|The Dresden Files, #12|2018-04-02|
+|Jim Butcher|Turn Coat|The Dresden Files, #11|2018-03-30|
+|Jim Butcher|Small Favor|The Dresden Files, #10|2018-03-30|
+|Jim Butcher|White Night|The Dresden Files, #9|2018-03-11|
+|Jim Butcher|Proven Guilty|The Dresden Files, #8|2018-03-07|
+|Jim Butcher|Dead Beat|The Dresden Files, #7|2018-03-03|
+|Jim Butcher|Blood Rites|The Dresden Files, #6|2018-02-27|
+|Jim Butcher|Death Masks|The Dresden Files, #5|2018-02-04|
+|Jim Butcher|Summer Knight|The Dresden Files, #4|2017-12-26|
+|Jim Butcher|Grave Peril|The Dresden Files, #3|2017-11-28|
+|Jim Butcher|Fool Moon|The Dresden Files, #2|2017-10-30|
+|Jim Butcher|Storm Front|The Dresden Files, #1|2017-10-27|
+|Kurt Vonnegut|A Man Without a Country||2017-09-14|
+|Iain M. Banks|The Algebraist||2017-10-18|
+|Ben Aaronovitch|Rivers of London: Black Mould||2017-08-28|
+|Walter Moers|Prinzessin Insomnia & der alptraumfarbene Nachtmahr|Zamonien, #7|2017-08-27|
+|Iain M. Banks|The Hydrogen Sonata|Culture #10|2017-09-12|
+|Iain M. Banks|Surface Detail|Culture #9|2017-08-11|
+|Iain M. Banks|Matter|Culture, #8|2017-06-21|
+|Iain M. Banks|Look to Windward|Culture, #7|2017-05-15|
+|Iain M. Banks|Inversions|Culture, #6|2017-04-23|
+|Iain M. Banks|Excession|Culture, #5|2017-04-05|
+|Iain M. Banks|The State of the Art|Culture, #4|2017-02-26|
+|Iain M. Banks|Use of Weapons||2017-02-01|
+|Iain M. Banks|The Player of Games|Culture, #2|2017-01-10|
+|Iain M. Banks|Consider Phlebas|Culture, #1|2017-01-06|
+|Ben Aaronovitch|Rivers of London: Night Witch||2016-12-23|
+|Kurt Vonnegut|God Bless You, Mr. Rosewater||2016-12-23|
+|Ben Aaronovitch|Rivers of London: Body Work||2016-11-23|
+|Ben Aaronovitch|The Hanging Tree|Peter Grant, #6|2016-11-17|
+|Kurt Vonnegut|Bluebeard||2016-12-07|
+|Isaac Asimov|The End of Eternity||2016-11-10|
+|Isaac Asimov|Forward the Foundation|Foundation: Prequel #2|2016-11-03|
+|Isaac Asimov|Prelude to Foundation||2016-10-31|
+|Isaac Asimov|Foundation and Earth|Foundation #5|2016-10-28|
+|Isaac Asimov|Foundation's Edge|Foundation #4|2016-10-25|
+|Isaac Asimov|Second Foundation|Foundation #3|2016-10-19|
+|Isaac Asimov|Foundation and Empire|Foundation #2|2016-10-14|
+|Isaac Asimov|Foundation| #1|2016-10-08|
+|Isaac Asimov|Pebble in the Sky|Galactic Empire #3|2016-10-05|
+|Isaac Asimov|The Stars, Like Dust|Galactic Empire, #1|2016-10-01|
+|Isaac Asimov|The Currents of Space|Galactic Empire #2|2016-09-27|
+|Isaac Asimov|Robots and Empire|Robot #4|2016-09-18|
+|Isaac Asimov|The Robots of Dawn|Robot #3|2016-09-11|
+|Isaac Asimov|The Naked Sun|Robot #2|2016-09-08|
+|Isaac Asimov|The Caves of Steel|Robot #1|2016-09-04|
+|Isaac Asimov|I, Robot|Robot, #0.1|2016-08-30|
+|Chuck Palahniuk|Choke||2016-08-06|
+|Kurt Vonnegut|Galápagos||2016-11-15|
+|Edward R. Tufte|The Visual Display of Quantitative Information||2016-08-04|
