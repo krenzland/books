@@ -27,6 +27,18 @@ def parse_series(title, title_with_series):
     series_str = match.group(1)
     return series_str
     
+    # Split in list of series
+    series = series_str.split(';')
+
+    def s_to_t(s):
+        #series, count = s.split(',')
+        count = ''.join(re.findall(r'\d+', s))
+        series = s.replace(count, '').replace('#', '').replace(',', '')
+        return series.strip(), count.strip()
+
+    series = [s_to_t(s) for s in series] 
+    return series
+
 class Book:
     def __init__(self, xml):
         self.id = xml.find('id').text
@@ -56,6 +68,7 @@ class Book:
         title = title.replace(' ', '').replace('.', '')
         return title + '.org'
 
+    
 def parse_response(reviews, books):
     for rev in reviews:
         try:
@@ -97,8 +110,9 @@ def generate_org_files(folder, books):
 def generate_org_table(folder, books):
     def stringify_series(series):
         return series
+        return "; ".join(["{}: {}".format(s[0], s[1]) for s in series])
 
-    header = "|name|author(s)|series|read data|"
+    header = "|author(s)|title|series|read data|"
     sep = "|--|--|--|--|"
     
     rows = [header, sep]
@@ -112,6 +126,7 @@ def generate_org_table(folder, books):
         f.write("\n".join(rows))
         print("Created table of read books")
 
+                
 def main():
     user = 9769674
     key = os.environ['GOODREADS_KEY']
