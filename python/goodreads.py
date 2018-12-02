@@ -133,7 +133,7 @@ def main():
 
     books = get_reviews(user, key)
     folder_posts = 'posts/'
-    folder_list = 'posts/lists'
+    folder_list = 'lists/'
     generate_org_files(folder_posts, books)
     generate_org_table(folder_list, books)
 

@@ -17,8 +17,8 @@ chmod 600 id_rsa
 eval `ssh-agent -s`
 ssh-add id_rsa
 
-cd posts/
-rm -rf .gitkeep
+rm -rf posts/.gitkeep
+rm -rf lists/.gitkeep
 
 # Set up git at site folder.
 git init
@@ -32,7 +32,8 @@ git reset upstream/reviews
 
 # Add all files
 touch .
-git add -A .
+git add -A posts/
+git add -A lists/
 
 # Push
 git commit -m "Auto-build, rev=${rev}"
