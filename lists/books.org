@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Terry Pratchett|Interesting Times|Discworld, #17; Rincewind #5|2019-01-20|
 |Terry Pratchett|Eric|Discworld, #9; Rincewind #4|2019-01-16|
 |Terry Pratchett|Sourcery|Discworld, #5; Rincewind #3|2019-01-10|
 |Terry Pratchett|The Light Fantastic|Discworld, #2; Rincewind #2|2018-12-31|
