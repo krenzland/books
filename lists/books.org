@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Terry Pratchett|The Truth|Discworld, #25; Industrial Revolution, #2|2019-02-22|
 |Terry Pratchett|Moving Pictures|Discworld, #10; Industrial Revolution, #1|2019-02-09|
 |Terry Pratchett|Interesting Times|Discworld, #17; Rincewind #5|2019-01-20|
 |Terry Pratchett|Eric|Discworld, #9; Rincewind #4|2019-01-16|
