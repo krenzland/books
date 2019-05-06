@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Mikhail Bulgakov|Der Meister und Margarita||2019-05-05|
 |Terry Pratchett|Wyrd Sisters|Discworld, #6; Witches #2|2019-04-09|
 |Terry Pratchett|Equal Rites|Discworld, #3; Witches, #1|2019-03-16|
 |Terry Pratchett|Monstrous Regiment|Discworld, #31; Industrial Revolution, #3|2019-02-27|
