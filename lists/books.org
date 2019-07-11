@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Iain Banks|The Bridge||2019-07-09|
 |Terry Pratchett|Carpe Jugulum|Discworld #23; Witches #6|2019-06-26|
 |Terry Pratchett|Maskerade|Discworld, #18; Witches #5|2019-06-15|
 |Terry Pratchett|Lords and Ladies|Discworld, #14; Witches #4|2019-06-14|
