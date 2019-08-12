@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Terry Pratchett|Unseen Academicals|Discworld, #37; Rincewind #8|2019-08-11|
 |Terry Pratchett|Pyramids|Discworld, #7|2019-07-18|
 |Iain Banks|The Bridge||2019-07-09|
 |Terry Pratchett|Carpe Jugulum|Discworld #23; Witches #6|2019-06-26|
