@@ -42,7 +42,7 @@
 |Margaret Atwood|The Handmaid's Tale||2018-06-27|
 |Jim Butcher|Side Jobs: Stories from the Dresden Files|The Dresden Files, #12.5|2018-06-05|
 |Jim Butcher|Skin Game|The Dresden Files, #15|2018-04-19|
-|Jim Butcher|Ghost Story|The Dresden Files,  #13|2018-04-15|
+|Jim Butcher|Ghost Story|The Dresden Files, #13|2018-04-15|
 |Christian Kracht|Faserland||2018-03-31|
 |Jim Butcher|Changes|The Dresden Files, #12|2018-04-02|
 |Jim Butcher|Turn Coat|The Dresden Files, #11|2018-03-30|
