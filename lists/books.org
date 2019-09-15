@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Terry Pratchett|The Wee Free Men|Discworld, #30; Tiffany Aching, #1|2019-09-14|
 |Terry Pratchett|Unseen Academicals|Discworld, #37; Rincewind #8|2019-08-11|
 |Terry Pratchett|Pyramids|Discworld, #7|2019-07-18|
 |Iain Banks|The Bridge||2019-07-09|
