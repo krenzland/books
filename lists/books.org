@@ -8,7 +8,7 @@
 |Terry Pratchett|Pyramids|Discworld, #7|2019-07-18|
 |Iain Banks|The Bridge||2019-07-09|
 |Terry Pratchett|Carpe Jugulum|Discworld #23; Witches #6|2019-06-26|
-|Terry Pratchett|Maskerade|Discworld, #18; Witches #5|2019-06-15|
+|Terry Pratchett|Maskerade|Discworld, #19; Witches #5|2019-06-15|
 |Terry Pratchett|Lords and Ladies|Discworld, #14; Witches #4|2019-06-14|
 |Terry Pratchett|Witches Abroad|Discworld, #12; Witches #3|2019-06-11|
 |Martin Sonneborn|Herr Sonneborn geht nach Brüssel - Abenteuer im Europaparlament||2019-05-26|
@@ -18,7 +18,7 @@
 |Terry Pratchett|Monstrous Regiment|Discworld, #31; Industrial Revolution, #3|2019-02-27|
 |Terry Pratchett|The Truth|Discworld, #25; Industrial Revolution, #2|2019-02-22|
 |Terry Pratchett|Moving Pictures|Discworld, #10; Industrial Revolution, #1|2019-02-09|
-|Terry Pratchett|Interesting Times|Discworld, #17; Rincewind #5|2019-01-20|
+|Terry Pratchett|Interesting Times|Discworld, #18; Rincewind #5|2019-01-20|
 |Terry Pratchett|Eric|Discworld, #9; Rincewind #4|2019-01-16|
 |Terry Pratchett|Sourcery|Discworld, #5; Rincewind #3|2019-01-10|
 |Terry Pratchett|The Light Fantastic|Discworld, #2; Rincewind #2|2018-12-31|
@@ -36,7 +36,7 @@
 |Terry Pratchett|Night Watch|Discworld, #29; City Watch, #6|2018-08-12|
 |Terry Pratchett|The Fifth Elephant|Discworld, #24; City Watch, #5|2018-08-06|
 |Terry Pratchett|Jingo|Discworld, #21; City Watch, #4|2018-08-01|
-|Terry Pratchett|Feet of Clay|Discworld, #19; City Watch, #3|2018-07-27|
+|Terry Pratchett|Feet of Clay|Discworld, #17; City Watch, #3|2018-07-27|
 |Terry Pratchett|Guards! Guards!|Discworld, #8; City Watch #1|2018-07-16|
 |Terry Pratchett|Raising Steam|Discworld, #40, Moist von Lipwig #3|2018-07-11|
 |Terry Pratchett|Making Money|Discworld, #36; Moist Von Lipwig, #2|2018-07-06|
