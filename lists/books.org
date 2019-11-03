@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Daniel Keyes|Flowers for Algernon||2019-11-02|
 |Terry Pratchett|Wintersmith|Discworld, #35; Tiffany Aching, #3|2019-11-01|
 |Terry Pratchett|A Hat Full of Sky|Discworld, #32; Tiffany Aching, #2|2019-10-19|
 |Ben Aaronovitch|The October Man|Rivers of London, #7.5|2019-09-27|
