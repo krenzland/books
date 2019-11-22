@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Terry Pratchett|The Shepherd's Crown|Discworld, #41; Tiffany Aching, #5|2019-11-21|
 |Terry Pratchett|I Shall Wear Midnight|Discworld, #38; Tiffany Aching, #4|2019-11-06|
 |Daniel Keyes|Flowers for Algernon||2019-11-02|
 |Terry Pratchett|Wintersmith|Discworld, #35; Tiffany Aching, #3|2019-11-01|
