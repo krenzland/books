@@ -105,4 +105,5 @@
 |Isaac Asimov|I, Robot|Robot, #0.1|2016-08-30|
 |Chuck Palahniuk|Choke||2016-08-06|
 |Kurt Vonnegut|Galápagos||2016-11-15|
+|Kurt Vonnegut|Cat's Cradle||2019-12-05|
 |Edward R. Tufte|The Visual Display of Quantitative Information||2016-08-04|
