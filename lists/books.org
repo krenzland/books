@@ -48,7 +48,7 @@
 |Terry Pratchett|Making Money|Discworld, #36; Moist Von Lipwig, #2|2018-07-06|
 |Terry Pratchett|Going Postal|Discworld, #33; Moist von Lipwig, #1|2018-06-30|
 |Benjamin von Stuckrad-Barre|Ich glaub, mir geht's nicht so gut, ich muss mich mal irgendwo hinlegen|Remix, #3|2018-06-27|
-|Kurt Vonnegut|Slapstick, or Lonesome No More!||2018-06-15|
+|Kurt Vonnegut Jr.|Slapstick, or Lonesome No More!||2018-06-15|
 |Margaret Atwood|The Handmaid's Tale|, #1|2018-06-27|
 |Jim Butcher|Side Jobs: Stories from the Dresden Files|The Dresden Files, #12.5|2018-06-05|
 |Jim Butcher|Skin Game|The Dresden Files, #15|2018-04-19|
@@ -66,7 +66,7 @@
 |Jim Butcher|Grave Peril|The Dresden Files, #3|2017-11-28|
 |Jim Butcher|Fool Moon|The Dresden Files, #2|2017-10-30|
 |Jim Butcher|Storm Front|The Dresden Files, #1|2017-10-27|
-|Kurt Vonnegut|A Man Without a Country||2017-09-14|
+|Kurt Vonnegut Jr.|A Man Without a Country||2017-09-14|
 |Iain M. Banks|The Algebraist||2017-10-18|
 |Cal Newport|Deep Work: Rules for Focused Success in a Distracted World||2019-02-21|
 |Ben Aaronovitch|Rivers of London: Black Mould||2017-08-28|
@@ -83,10 +83,10 @@
 |Iain M. Banks|The Player of Games|Culture, #2|2019-12-16|
 |Iain M. Banks|Consider Phlebas|Culture, #1|2017-01-06|
 |Ben Aaronovitch|Rivers of London: Night Witch||2016-12-23|
-|Kurt Vonnegut|God Bless You, Mr. Rosewater||2016-12-23|
+|Kurt Vonnegut Jr.|God Bless You, Mr. Rosewater||2016-12-23|
 |Ben Aaronovitch|Rivers of London: Body Work||2016-11-23|
 |Ben Aaronovitch|The Hanging Tree|Peter Grant, #6|2016-11-17|
-|Kurt Vonnegut|Bluebeard||2016-12-07|
+|Kurt Vonnegut Jr.|Bluebeard||2016-12-07|
 |Isaac Asimov|The End of Eternity||2016-11-10|
 |Isaac Asimov|Forward the Foundation|Foundation: Prequel #2|2016-11-03|
 |Isaac Asimov|Prelude to Foundation||2016-10-31|
@@ -104,6 +104,6 @@
 |Isaac Asimov|The Caves of Steel|Robot #1|2016-09-04|
 |Isaac Asimov|I, Robot|Robot, #0.1|2016-08-30|
 |Chuck Palahniuk|Choke||2016-08-06|
-|Kurt Vonnegut|Galápagos||2016-11-15|
-|Kurt Vonnegut|Cat's Cradle||2019-12-05|
+|Kurt Vonnegut Jr.|Galápagos||2016-11-15|
+|Kurt Vonnegut Jr.|Cat's Cradle||2019-12-05|
 |Edward R. Tufte|The Visual Display of Quantitative Information||2016-08-04|
