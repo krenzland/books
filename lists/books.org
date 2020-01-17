@@ -95,7 +95,7 @@
 |Isaac Asimov|Foundation's Edge|Foundation #4|2016-10-25|
 |Isaac Asimov|Second Foundation|Foundation #3|2016-10-19|
 |Isaac Asimov|Foundation and Empire|Foundation #2|2016-10-14|
-|Isaac Asimov|Foundation| #1|2016-10-08|
+|Isaac Asimov|Foundation|, #1|2016-10-08|
 |Isaac Asimov|Pebble in the Sky|Galactic Empire #3|2016-10-05|
 |Isaac Asimov|The Stars, Like Dust|Galactic Empire, #1|2016-10-01|
 |Isaac Asimov|The Currents of Space|Galactic Empire #2|2016-09-27|
