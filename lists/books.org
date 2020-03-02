@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|James Acaster|James Acaster's Classic Scrapes||2020-03-01|
 |John Kennedy Toole|A Confederacy of Dunces||2020-02-08|
 |Kurt Vonnegut Jr.|Hocus Pocus||2020-02-15|
 |Iain Banks|The Wasp Factory||2020-01-09|
