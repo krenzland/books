@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Joe Lycett|Parsnips, Buttered: How to baffle, bamboozle and boycott your way through modern life||2020-03-08|
 |James Acaster|James Acaster's Classic Scrapes||2020-03-01|
 |John Kennedy Toole|A Confederacy of Dunces||2020-02-08|
 |Kurt Vonnegut Jr.|Hocus Pocus||2020-02-15|
