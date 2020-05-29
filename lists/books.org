@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Ben Aaronovitch|Foxglove Summer|Peter Grant, #5|2020-05-27|
 |Ben Aaronovitch|Broken Homes|Peter Grant, #4|2020-05-24|
 |Ben Aaronovitch|Whispers Under Ground|Peter Grant, #3|2020-05-22|
 |Ben Aaronovitch|Moon Over Soho|Peter Grant, #2|2020-05-19|
