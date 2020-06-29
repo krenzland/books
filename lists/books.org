@@ -111,11 +111,11 @@
 |Isaac Asimov|Foundation and Empire|Foundation #2|2016-10-14|
 |Isaac Asimov|Foundation|, #1|2016-10-08|
 |Isaac Asimov|Pebble in the Sky|Galactic Empire #3|2016-10-05|
-|Isaac Asimov|The Stars, Like Dust|Galactic Empire #1|2016-10-01|
+|Isaac Asimov|The Stars, Like Dust|Galactic Empire, #1|2016-10-01|
 |Isaac Asimov|The Currents of Space|Galactic Empire #2|2016-09-27|
-|Isaac Asimov|Robots and Empire|Robot #4|2016-09-18|
-|Isaac Asimov|The Robots of Dawn|Robot #3|2016-09-11|
-|Isaac Asimov|The Naked Sun|Robot #2|2016-09-08|
+|Isaac Asimov|Robots and Empire|Robot, #4|2016-09-18|
+|Isaac Asimov|The Robots of Dawn|Robot, #3|2016-09-11|
+|Isaac Asimov|The Naked Sun|Robot, #2|2016-09-08|
 |Isaac Asimov|The Caves of Steel|Robot #1|2016-09-04|
 |Isaac Asimov|I, Robot|Robot, #0.1|2016-08-30|
 |Chuck Palahniuk|Choke||2016-08-06|
