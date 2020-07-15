@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Guy Gavriel Kay|The Lions of Al-Rassan||2020-07-14|
 |Ernest Hemingway|The Old Man and the Sea||2020-07-02|
 |Patrick Süskind|Der Kontrabaß||2020-06-07|
 |Ben Aaronovitch|Foxglove Summer|Peter Grant, #5|2020-05-27|
