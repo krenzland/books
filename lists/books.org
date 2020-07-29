@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Guy Gavriel Kay|Sailing to Sarantium|The Sarantine Mosaic, #1|2020-07-28|
 |Guy Gavriel Kay|The Lions of Al-Rassan||2020-07-14|
 |Ernest Hemingway|The Old Man and the Sea||2020-07-02|
 |Patrick Süskind|Der Kontrabaß||2020-06-07|
