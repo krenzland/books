@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Jim Butcher|Peace Talks|The Dresden Files, #16|2020-08-11|
 |Guy Gavriel Kay|Lord of Emperors|The Sarantine Mosaic, #2|2020-08-08|
 |Guy Gavriel Kay|Sailing to Sarantium|The Sarantine Mosaic, #1|2020-07-28|
 |Guy Gavriel Kay|The Lions of Al-Rassan||2020-07-14|
