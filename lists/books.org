@@ -88,7 +88,7 @@
 |Jim Butcher|Grave Peril|The Dresden Files, #3|2017-11-28|
 |Jim Butcher|Fool Moon|The Dresden Files, #2|2017-10-30|
 |Ben Aaronovitch|The Furthest Station|Rivers of London, #5.5|2020-05-29|
-|Jim Butcher|Storm Front|The Dresden Files, #1|2017-10-27|
+|Jim Butcher|Storm Front|The Dresden Files, #1|2020-10-10|
 |Kurt Vonnegut Jr.|A Man Without a Country||2017-09-14|
 |Iain M. Banks|The Algebraist||2017-10-18|
 |Cal Newport|Deep Work: Rules for Focused Success in a Distracted World||2019-02-21|
