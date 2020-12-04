@@ -130,3 +130,4 @@
 |Kurt Vonnegut Jr.|Galápagos||2016-11-15|
 |Kurt Vonnegut Jr.|Cat's Cradle||2019-12-05|
 |Edward R. Tufte|The Visual Display of Quantitative Information||2016-08-04|
+|David Foster Wallace|Infinite Jest||2020-12-03|
