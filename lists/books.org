@@ -1,5 +1,6 @@
 |author(s)|title|series|read data|
 |--|--|--|--|
+|Alan Moore|Watchmen||2021-01-12|
 |Thomas Pynchon|The Crying of Lot 49||2020-12-24|
 |Richard Herring|The Problem with Men: When is International Men’s Day?||2020-12-06|
 |Ben Aaronovitch|Tales from the Folly: A Rivers of London Short Story Collection|Rivers of London #1.5, 1.6, 4.6, 5.65, 6.5|2020-09-26|
